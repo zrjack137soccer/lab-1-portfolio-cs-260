@@ -45,8 +45,7 @@ For general grading guidelines, reference the table below (subject to change):
 
 Behavior | Estimated Point Value
 --- | ---
-Create a portfolio web page that is visible online | 40
-Has at least the specified sections | 10
+Create a portfolio web page with at least the specified sections that is visible online | 40
 Uses the specified HTML/CSS elements. (5 points for each bullet) | 25
 Seperate CSS file and your code is correctly pushed to github | 10
 The JS portion is there and works (does not have to be in a separate file) | 15
