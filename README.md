@@ -2,11 +2,9 @@
 
 ### Basic HTML programming expertise is an important skill for Computer Science graduates.  
 
-##### In creating a web page you can think of the *Content Layer* as being the basic HTML. The *Presentation Layer* is the CSS, and the *Behavior Layer* as the javascript.  We wont be dealing with the Behavior layer until later in the class, but this assignment will help you become familiar with the Content Layer and the Presentation Layer.
+##### In creating a web page you can think of the *Content Layer* as being the basic HTML. The *Presentation Layer* is the CSS, and the *Behavior Layer* as the javascript.
 
 ##### For this assignment, you'll need to create a web page portfolio that will showcase the different projects you have/will done. You can look at [freecodecamp portfolio project](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) for an example of a portfolio, but you can do something much simpler. A major part of the assignment is to make your page look good, so make sure to spend some time on that.
-
-Submit a link to learningsuite where we can see your portfolio online, and make sure that you created it from the [github classroom link](https://classroom.github.com/assignment-invitations/1eb37df0605b97c362535147269c017a) so that we are able to see your repository.
 
 ### A portfolio should (and yours must) include at least the following sections:
 - A brief about section (similar to a resume objective statement but with more information)
@@ -36,10 +34,6 @@ Submit a link to learningsuite where we can see your portfolio online, and make 
 	<li><a href="http://faculty.cs.byu.edu/~clement/CS360/assignments/css/banner.jpg">Banner image</a></li>
 	<li><a href="http://faculty.cs.byu.edu/~clement/CS360/assignments/css/360.css">Style Sheet</a></li>
 </ul>
-
-
-### Submit a link to learningsuite where we can see your portfolio online (we should be able to view it live). You should have utilized this [github classroom link](https://classroom.github.com/assignment-invitations/1eb37df0605b97c362535147269c017a) to create your repository, and should make sure it is up to date when your assignment is submitted.
-
 
 For general grading guidelines, reference the table below (subject to change):
 
