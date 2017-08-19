@@ -6,19 +6,21 @@
 
 ##### For this assignment, you'll need to create a web page portfolio that will showcase the different projects you have/will done. You can look at [freecodecamp portfolio project](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage) for an example of a portfolio, but you can do something much simpler. A major part of the assignment is to make your page look good, so make sure to spend some time on that.
 
-### A portfolio should (and yours must) include at least the following sections:
-- A brief about section (similar to a resume objective statement but with more information)
-- Projects (include at least 3, even if they're just from the first quiz)
-- A work experience section (or a link to a resume, but it's typically better to not make someone leave a portfolio page)
+### A portfolio should (and yours must) include at least the following sections defined in your index.html file in this repository:
+- A brief about section (similar to a resume objective statement but with more information about you)
+- Projects (include at least 3, even if they're super simple HTML pages)
+- A work experience section (This would be a good place for your lists)
 - Links to sites like github and linkedin where someone could learn more
 
-### Your page should have at least the following elements:
+### Your page should have at least the following specific elements:
 
-- lists
+- lists (Ordered and Unordered with at least 2 items)
 - different background colors for different sections (not each piece, but like header/footer/main content/etc)
-- images
-- links to other pages
-- heading styles that are defined in your CSS
+- images (at least 2)
+- links to other pages (at least the two above)
+- heading styles that are defined in your CSS (in the file main.css provided in this repository)
+
+### Your Page must also include:
 - some basic DOM manipulation with JavaScript (like find an HTML element and change its color with a button to something else, or whatever you can find - try checking this <a href="http://www.w3schools.com/js/js_htmldom.asp">tutorial</a>)
 
 
@@ -40,7 +42,7 @@ For general grading guidelines, reference the table below (subject to change):
 Behavior | Estimated Point Value
 --- | ---
 Create a portfolio web page with at least the specified sections that is visible online | 40
-Uses the specified HTML/CSS elements. (5 points for each bullet) | 25
-Seperate CSS file and your code is correctly pushed to github | 10
-The JS portion is there and works (does not have to be in a separate file) | 15
+Uses the specified HTML/CSS elements. (6 points for each bullet) | 30
+The JS portion is there and works (does not have to be in a separate file) | 10
+Seperate CSS file AND your code is correctly pushed to github | 10
 Your page looks really good. This is subjective, so wow us. | 10
