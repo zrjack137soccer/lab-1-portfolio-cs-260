@@ -1,1 +1,46 @@
+#welcome-section {
+	background-color: #BDF9E2;
+	color: blue;
+	text-align: center;
+	padding:10px
+	
+}
 
+.intro {
+	background-color: #ECFEF7;
+	color: black;
+	padding:0px;
+	
+}
+#projects {
+	
+    background-color: #FAFBB9;	
+	text-align: center;
+	padding:20px;
+}
+
+#navbar {
+	
+	    background-color: white;	
+	
+	padding:20px;
+	
+}
+
+#profile-link {
+	
+	    background-color: white;	
+	
+	padding:20px;
+	
+	
+}
+.project-title {
+	
+	
+	    background-color: white;	
+	
+	padding:20px;
+	
+	
+}
